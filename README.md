@@ -1,5 +1,7 @@
 # medRxiv MCP Server
 
+[![smithery badge](https://smithery.ai/badge/medrxiv-mcp-server)](https://smithery.ai/server/medrxiv-mcp-server)
+
 🔍 Enable AI assistants to search and access medRxiv papers through a simple MCP interface.
 
 The medRxiv MCP Server provides a bridge between AI assistants and medRxiv's preprint repository through the Model Context Protocol (MCP). It allows AI models to search for health sciences preprints and access their content in a programmatic way.
@@ -19,7 +21,7 @@ The medRxiv MCP Server provides a bridge between AI assistants and medRxiv's pre
 
 ### Installing via Smithery
 
-To install medRxiv Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/arxiv-mcp-server):
+To install medRxiv MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/medrxiv-mcp-server):
 
 ```bash
 npx -y @smithery/cli install medrxiv-mcp-server --client claude
