@@ -1,5 +1,5 @@
 # medRxiv MCP Server
-[![smithery badge](https://smithery.ai/badge/@JackKuo666/medrxiv-mcp-server)](https://smithery.ai/server/@JackKuo666/medrxiv-mcp-server)
+[![Listed on LightNow](https://lightnow.ai/badge/io.github.jackkuo666/medrxiv-mcp-server?variant=listed)](https://lightnow.ai/servers/io.github.jackkuo666/medrxiv-mcp-server)
 
 🔍 Enable AI assistants to search and access medRxiv papers through a simple MCP interface.
 
